@@ -1,4 +1,5 @@
 # Abstract Factory - Benjamin Ortiz
+# https://www.figma.com/design/RXdR2WoBRUbrqUFSd4gLkT/Untitled?node-id=0-1&t=7NBLQhJQzwsA5Lrd-1
 from abc import ABC, abstractmethod
 
 # Intel, AMD, Nvidia
